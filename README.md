@@ -12,5 +12,5 @@ Different types of features are extracted from log files and other sources: even
 Note: “severity_type” is a feature extracted from the log files (in severity_type.csv). Often this is a severity type of a warning message coming from the log. "severity_type" is categorical. It does not have an ordering. “fault_severity” is a measurement of actual reported faults from users of the network and is the target variable (in train.csv).
 
 # Dependencies
-* Please make sure that your have all the files from the [website](https://www.kaggle.com/c/telstra-recruiting-network/data)in a folder <b>Telstra_data </b>, located in the folder where your IPython Notebook is located.
+* Please make sure that your have all the files from the [website](https://www.kaggle.com/c/telstra-recruiting-network/data) in a folder <b>Telstra_data </b>, located in the folder where your IPython Notebook is located.
 * Please make sure that you have [XGBoost](http://xgboost.readthedocs.org/en/latest/#) Installed. (Good luck if you're a windows user!)
