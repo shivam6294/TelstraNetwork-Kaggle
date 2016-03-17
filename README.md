@@ -1,7 +1,10 @@
 # TelstraNetwork-Kaggle
 
 * My Attempt at the [Telstra Network Disruptions](https://www.kaggle.com/c/telstra-recruiting-network) Kaggle Competition 
-
+* The entire solution is split up into two parts:
+  * <b>Telstra Network Disruptions.ipynb: </b> This contains the initial solution
+  * <b>Telstra_alt_feature_rep.ipynb: </b> This contains the experimental stuff that was not included in the final submission (training multiple classifiers on different parts of the data set and location clustering)
+. 
 # Desription 
 The goal of the problem is to predict Telstra network's fault severity at a time at a particular location based on the log data available. Each row in the main dataset (train.csv, test.csv) represents a location and a time point. They are identified by the "id" column, which is the key "id" used in other data files. 
 
