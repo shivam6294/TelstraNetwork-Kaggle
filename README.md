@@ -17,4 +17,4 @@ Note: “severity_type” is a feature extracted from the log files (in severity
 
 # Dependencies
 * Please make sure that your have all the files from the [website](https://www.kaggle.com/c/telstra-recruiting-network/data) in a folder <b>Telstra_data </b>, located in the folder where your IPython Notebook is located.
-* Please make sure that you have [XGBoost](http://xgboost.readthedocs.org/en/latest/#) Installed. (Good luck if you're a windows user!)
+* Please make sure that you have [XGBoost](http://xgboost.readthedocs.org/en/latest/#) Installed.
